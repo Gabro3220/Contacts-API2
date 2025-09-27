@@ -1,0 +1,12 @@
+br\ifsp\contacts_api\dto\ContactRequest.class
+br\ifsp\contacts_api\dto\ContactResponse.class
+br\ifsp\contacts_api\controller\ContactController.class
+br\ifsp\contacts_api\ContactsApiApplication.class
+br\ifsp\contacts_api\dto\AddressResponse.class
+br\ifsp\contacts_api\controller\AddressController.class
+br\ifsp\contacts_api\dto\AddressRequest.class
+br\ifsp\contacts_api\repository\ContactRepository.class
+br\ifsp\contacts_api\entity\Address.class
+br\ifsp\contacts_api\entity\Contact.class
+br\ifsp\contacts_api\exception\GlobalExceptionHandler.class
+br\ifsp\contacts_api\repository\AddressRepository.class
